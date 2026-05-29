@@ -35,6 +35,10 @@ License
 This project is licensed under the MIT License — see the `LICENSE` file.
 
 Author: Chandra Sekhar Yamparala
+
+Live Demo: [https://chandraportfolio-six.vercel.app/](https://chandraportfolio-six.vercel.app/)
+
+Deploy: ![Vercel](https://img.shields.io/badge/deploy%20on-vercel-000?logo=vercel&logoColor=white)
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
