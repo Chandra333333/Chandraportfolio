@@ -1,3 +1,40 @@
+# Chandra Sekhar Yamparala — Portfolio
+
+Modern personal portfolio site built with Next.js 15 (App Router) + TypeScript, Tailwind CSS, Framer Motion and small UI primitives.
+
+Features
+- Responsive single-page portfolio with hero, about, skills, projects, research, certifications, and contact sections
+- Dark / light theme, animated UI, and simple visitor counter
+- Serverless API routes for GitHub and LeetCode data (placeholders/fallbacks included)
+- Resume download (replace `public/resume/Chandra_Sekhar_Yamparala_Resume.txt` with your PDF)
+
+Quick start (developer)
+
+```powershell
+cd "D:\Chandra Portfolip"
+npm install
+npm run dev -- -p 3001
+# Open http://localhost:3001
+```
+
+Build
+
+```powershell
+npm run build
+npm start
+```
+
+Deploy
+- Recommended: Deploy to Vercel (import the GitHub repo and set `NODE_ENV=production` if needed).
+
+Replace / Customize
+- Replace `public/images/profile.jpg` with your preferred photo
+- Replace `public/resume/Chandra_Sekhar_Yamparala_Resume.txt` with a PDF and update links if needed
+
+License
+This project is licensed under the MIT License — see the `LICENSE` file.
+
+Author: Chandra Sekhar Yamparala
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
